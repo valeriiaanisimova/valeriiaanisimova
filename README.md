@@ -1,49 +1,52 @@
-## Hi there 👋
-
-<!--
-**valeriiaanisimova/valeriiaanisimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<div align="center">
-  <h1>Привет, я <strong>Иван Иванов</strong> 👋</h1>
-  <img src="https://komarev.com/ghpvc/?username=ваш-никнейм&color=blue" alt="Views" />
-</div>
-
-### 🛠 Навыки и технологии
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-<!-- Можно добавить еще значки -->
+<!-- Заголовок / приветствие -->
+<h1 align="center">Привет 👋, я **Твоё Имя / Никнейм**</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_USERNAME&color=brightgreen" alt="Profile views" />
+</p>
 
 ---
 
-### 💼 Проекты
+## 👨‍💻 О себе  
+Я веб-разработчик, специализируюсь на **JavaScript**, **HTML**, **CSS**.  
+Люблю создавать интерактивные интерфейсы и минималистичный дизайн.  
 
-- [**Project-A**](https://github.com/yourname/Project-A) — интерактивный сайт с анимациями  
-- [**Project-B**](https://github.com/yourname/Project-B) — приложение на чистом JS и Fetch  
-- [**Project-C**](https://github.com/yourname/Project-C) — адаптивная верстка макета  
-
----
-
-### 📊 Статистика
-
-<img src="https://github-readme-stats.vercel.app/api?username=ваш-никнейм&show_icons=true&theme=radical" alt="GitHub Stats" />
+- 🎯 Сейчас изучаю: React, Vue или другой фреймворк  
+- 📚 Интересуюсь: веб-анимацией, производительностью, UX  
+- 🧩 Хобби: музыка, игры, дизайн  
 
 ---
 
-### ✉ Контакты
+## 🛠 Технологии и навыки
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/your_tg)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+<p align="left">
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
+  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <!-- добавляй свои значки -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Проекты
+
+Вот несколько проектов, которыми я горжусь:
+
+| Название проекта | Описание | Технологии | Ссылка |
+|---|---|---|---|
+| Проект A | Одностраничное приложение | JS, HTML, CSS | [GitHub](https://github.com/ТВОЙ_USERNAME/проектA) |
+| Проект B | Мини-игра или визуализация | JavaScript | [GitHub](https://github.com/ТВОЙ_USERNAME/проектB) |
+| Проект C | Сайт / лендинг | HTML, CSS, JS | [GitHub](https://github.com/ТВОЙ_USERNAME/проектC) |
+
+> _“Лучше меньше, да качественно”_ — выбирай лучшие проекты, не обязательно показывать всё.
+
+---
+
+## 📊 Статистика
+
+Я использую несколько “виджетов” и “карточек”, чтобы показывать активность:
+
+```md
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ТВОЙ_USERNAME&theme=dark)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=dark)](https://github.com/ТВОЙ_USERNAME)
