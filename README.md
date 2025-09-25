@@ -79,34 +79,3 @@ Below are my highlighted projects. Each link goes to the repo — click to explo
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-Tailwind-06b6d4?style=flat-square)
 
 Common stack: **JavaScript (ES6+), HTML5, CSS3**, (optionally React / Vue), bundlers (Vite, Webpack), and testing with Jest / Playwright.
-
----
-
-## Optional widgets (copy into your README)
-
-**GitHub stats and top languages** (replace `<your-username>`):
-
-```md
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=vue)](https://github.com/<your-username>)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=vue)](https://github.com/<your-username>)
-```
-
-**Visitor counter** (optional):
-
-```md
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=<your-username>.<your-username>)
-```
-
----
-
-## How to use this template
-
-1. Replace `https://raw.githubusercontent.com/<your-username>/<your-username>/main/assets/hero-banner.png` with the link to your big banner image.
-2. Fill in the About / Status fields and replace project names + links with your actual repos.
-3. Tweak badges and tech list to reflect what you actually use.
-4. (Optional) Add GitHub Actions to regenerate dynamic content (e.g. latest blog posts, pinned projects).
-
----
-
-Thanks for stopping by — feel free to copy this into `username/username` repository and customize it. 🚀
