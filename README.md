@@ -2,7 +2,7 @@
 
 <!-- Hero image: replace the URL below with a large image you host (GitHub repo / imgur / your site). Recommended size: 1200×400 — use a wide banner-style image. -->
 
-![Hero Image](https://raw.githubusercontent.com/<your-username>/<your-username>/main/assets/hero-banner.png)
+![Hero Image](https://ukr.media/static/ba/aimg/4/4/1/441783_1.jpg)
 
 ---
 
