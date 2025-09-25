@@ -1,52 +1,62 @@
-<!-- Заголовок / приветствие -->
-<h1 align="center">Привет 👋, я **Твоё Имя / Никнейм**</h1>
+<!-- =========================
+   GitHub Profile README
+   (For: JavaScript / HTML / CSS devs)
+   Replace USERNAME and other placeholders
+   ========================= -->
+
+<h1 align="center">Привет, я <b>Your Name</b> 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_USERNAME&color=brightgreen" alt="Profile views" />
+  <a href="https://github.com/USERNAME">GitHub</a> • 
+  <a href="https://github.com/USERNAME?tab=repositories">Мои проекты</a> •
+  <a href="https://t.me/your_telegram">Telegram</a>
 </p>
 
 ---
 
-## 👨‍💻 О себе  
-Я веб-разработчик, специализируюсь на **JavaScript**, **HTML**, **CSS**.  
-Люблю создавать интерактивные интерфейсы и минималистичный дизайн.  
+## 👨‍💻 О себе
+Я фронтенд-разработчик, создаю интерфейсы и интерактивные мини-проекты с использованием **HTML, CSS и JavaScript**. Люблю оптимизировать UX, делать аккуратный чистый код и экспериментировать с веб-анимациями.
 
-- 🎯 Сейчас изучаю: React, Vue или другой фреймворк  
-- 📚 Интересуюсь: веб-анимацией, производительностью, UX  
-- 🧩 Хобби: музыка, игры, дизайн  
+## 🛠 Технологии
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 ---
 
-## 🛠 Технологии и навыки
+## 🚀 Избранные проекты
+| Проект | Кратко | Технологии |
+|---|---:|:---|
+| [REPO_NAME_1](https://github.com/USERNAME/REPO_NAME_1) | SPA / игра / виджет | HTML • CSS • JS |
+| [REPO_NAME_2](https://github.com/USERNAME/REPO_NAME_2) | Портфолио / лендинг | HTML • CSS |
+| [REPO_NAME_3](https://github.com/USERNAME/REPO_NAME_3) | Интерактивная визуализация | JS (Canvas / SVG) |
 
+> 💡 Советы: ставь `topics` в репо (например: `javascript`, `html`, `css`) — это помогает поиску и оформлению карточек.
+
+---
+
+## 📈 Статистика (динамическая)
+<!-- GitHub Readme Stats -->
 <p align="left">
-  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
-  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <!-- добавляй свои значки -->
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" />
 </p>
 
 ---
 
-## 🚀 Проекты
-
-Вот несколько проектов, которыми я горжусь:
-
-| Название проекта | Описание | Технологии | Ссылка |
-|---|---|---|---|
-| Проект A | Одностраничное приложение | JS, HTML, CSS | [GitHub](https://github.com/ТВОЙ_USERNAME/проектA) |
-| Проект B | Мини-игра или визуализация | JavaScript | [GitHub](https://github.com/ТВОЙ_USERNAME/проектB) |
-| Проект C | Сайт / лендинг | HTML, CSS, JS | [GitHub](https://github.com/ТВОЙ_USERNAME/проектC) |
-
-> _“Лучше меньше, да качественно”_ — выбирай лучшие проекты, не обязательно показывать всё.
+## 📌 Пин-репозитории (карточки)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME_1&show_icons=true" alt="Pinned repo 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME_2&show_icons=true" alt="Pinned repo 2" />
+</p>
 
 ---
 
-## 📊 Статистика
+## ✉️ Контакты
+- Email: youremail@example.com  
+- Telegram: @your_telegram  
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/yourprofile)  
+- Сайт: https://yourwebsite.com
 
-Я использую несколько “виджетов” и “карточек”, чтобы показывать активность:
-
-```md
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ТВОЙ_USERNAME&theme=dark)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=dark)](https://github.com/ТВОЙ_USERNAME)
+---
