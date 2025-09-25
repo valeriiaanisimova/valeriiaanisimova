@@ -47,7 +47,7 @@
 
 ## 📌 Пин-репозитории (карточки)
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME_1&show_icons=true](https://ukr.media/static/ba/aimg/4/4/1/441783_1.jpg)" alt="Pinned repo 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME_1&show_icons=true" alt="Pinned repo 1" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME_2&show_icons=true" alt="Pinned repo 2" />
 </p>
 
