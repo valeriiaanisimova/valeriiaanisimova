@@ -38,42 +38,66 @@ I'm a front-end developer focused on **JavaScript, HTML, and CSS**. I enjoy buil
     <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
     <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
   </div>
-1. **Project One** — *Short 1-line description.*
-   🔗 [https://github.com/](https://github.com/)<your-username>/project-one
 
-2. **Project Two** — *Short 1-line description.*
-   🔗 [https://github.com/](https://github.com/)<your-username>/project-two
+  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
+    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
+    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
+  </div>
 
-3. **Project Three** — *Short 1-line description.*
-   🔗 [https://github.com/](https://github.com/)<your-username>/project-three
+  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
+    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
+    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
+  </div>
 
-4. **Project Four** — *Short 1-line description.*
-   🔗 [https://github.com/](https://github.com/)<your-username>/project-four
+  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
+    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
+    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
+  </div>
 
-5. **Project Five** — *Short 1-line description.*
-   🔗 [https://github.com/](https://github.com/)<your-username>/project-five
+  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
+    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
+    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
+  </div>
 
-6. **Project Six** — *Short 1-line description.*
-   🔗 [https://github.com/](https://github.com/)<your-username>/project-six
+  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
+    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
+    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
+  </div>
 
-7. **Project Seven** — *Short 1-line description.*
-   🔗 [https://github.com/](https://github.com/)<your-username>/project-seven
+  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
+    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
+    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
+  </div>
 
-8. **Project Eight** — *Short 1-line description.*
-   🔗 [https://github.com/](https://github.com/)<your-username>/project-eight
+  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
+    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
+    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
+  </div>
 
-9. **Project Nine** — *Short 1-line description.*
-   🔗 [https://github.com/](https://github.com/)<your-username>/project-nine
+  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
+    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
+    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
+  </div>
 
-10. **Project Ten** — *Short 1-line description.*
-    🔗 [https://github.com/](https://github.com/)<your-username>/project-ten
+  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
+    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
+    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
+  </div>
 
-11. **Project Eleven** — *Short 1-line description.*
-    🔗 [https://github.com/](https://github.com/)<your-username>/project-eleven
-
-12. **Project Twelve** — *Short 1-line description.*
-    🔗 [https://github.com/](https://github.com/)<your-username>/project-twelve
-    </div>
+  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
+    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
+    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
+  </div>
 
 > Tip: For each project add a short badge or emoji to highlight tech used (e.g. `⚛️ React`, `🎮 Game`, `🧩 Library`). Add a `LIVE` link when there's a demo.
 
