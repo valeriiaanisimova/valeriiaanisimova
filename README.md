@@ -8,11 +8,12 @@ Hi, I’m Lera, a front-end developer focused on JavaScript, HTML, and CSS.
 ---
 
 ## Here on GitHub, I share:
-♟ Chess-inspired algorithms and decision-making simulations
-🎮 Mini games and gamified web experiments
-🕵️ Steganography experiments and encoding tricks
-🕹 Interactive visualizations of graph theory, Markov chains, or game theory
-🤖 Simple AI/ML prototypes and neural network experiments
+
+- ♟ Chess-inspired algorithms and decision-making simulations  
+- 🎮 Mini games and gamified web experiments  
+- 🕵️ Steganography experiments and encoding tricks  
+- 🕹 Interactive visualizations of graph theory, Markov chains, or game theory  
+- 🤖 Simple AI/ML prototypes and neural network experiments
 
 ---
 
@@ -20,7 +21,7 @@ Hi, I’m Lera, a front-end developer focused on JavaScript, HTML, and CSS.
 
 | Repository | Link | Description | Awards |
 |------------|------|-------------|--------|
-| **DB Chat** | [Download](https://github.com/your-username/db-chat) | AI first DB Client | — |
+| **game-of-probabilities** | (https://valeriiaanisimova.github.io/game-of-probabilities/)(https://github.com/valeriiaanisimova/game-of-probabilities) | AI first DB Client | — |
 | **Bluesky 3D Graph** | [Website](https://your-demo-link.com) | 3D chart of your Bluesky post activity | Live on PH |
 | **mdx Blog** | [Website](https://your-demo-link.com) | Premium MDX, NextJS, TailwindCSS Template | 3rd DevHunt |
 | **Personal Blog v2** | [Website](https://your-demo-link.com) | New Blog | — |
