@@ -1,9 +1,5 @@
-# Hi there 👋
-
-<!-- Hero image: replace the URL below with a large image you host (GitHub repo / imgur / your site). Recommended size: 1200×400 — use a wide banner-style image. -->
-
 ![Hero Image](https://github.com/lima4ka/art/blob/main/artcot.png?raw=true)
-
+# Hi there 👋
 ---
 
 ## About Me
