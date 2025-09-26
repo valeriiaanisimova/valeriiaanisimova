@@ -1,5 +1,4 @@
 ![Hero Image](https://github.com/lima4ka/art/blob/main/artcot.png?raw=true)
-# Hi there 👋
 ---
 
 ## About Me
