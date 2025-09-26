@@ -7,11 +7,12 @@ Hi, I’m Lera, a front-end developer focused on JavaScript, HTML, and CSS.
 
 ---
 
-## Status
-
-**Availability:** *<Open to work / Available for freelance / Not looking currently>*
-
-**Current focus:** *<e.g. building a component library, learning React, improving performance>*
+## Here on GitHub, I share:
+♟ Chess-inspired algorithms and decision-making simulations
+🎮 Mini games and gamified web experiments
+🕵️ Steganography experiments and encoding tricks
+🕹 Interactive visualizations of graph theory, Markov chains, or game theory
+🤖 Simple AI/ML prototypes and neural network experiments
 
 ---
 
@@ -33,7 +34,7 @@ Hi, I’m Lera, a front-end developer focused on JavaScript, HTML, and CSS.
 | **Personal Blog v1** | _(Taken Down)_ | Built with NextJS (App Router) & WP GraphQL | — |
 
 
-> Tip: For each project add a short badge or emoji to highlight tech used (e.g. `⚛️ React`, `🎮 Game`, `🧩 Library`). Add a `LIVE` link when there's a demo.
+- ⚡When I'm not coding, you might find me **solving a puzzle**, **training for the next tournament**, or **figuring out how to automate a tedious task** (because why not let the computer do the boring stuff? 😎).
 
 ---
 
@@ -46,5 +47,3 @@ Hi, I’m Lera, a front-end developer focused on JavaScript, HTML, and CSS.
 ![Node.js](https://img.shields.io/badge/Node.js-Node-green?style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-Vite-ff69b4?style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-Tailwind-06b6d4?style=flat-square)
-
-Common stack: **JavaScript (ES6+), HTML5, CSS3**, (optionally React / Vue), bundlers (Vite, Webpack), and testing with Jest / Playwright.
