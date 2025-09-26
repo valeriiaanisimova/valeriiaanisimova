@@ -4,11 +4,7 @@
 
 ## About Me
 
-I'm a front-end developer focused on **JavaScript, HTML, and CSS**. I enjoy building small UI libraries, interactive web apps, and pixel-perfect responsive designs. I share projects, experiments and learning notes here on GitHub.
-
-* 🔭 I’m currently working on: **<short project name or goal>**
-* 🌱 I’m learning: **<new tech or topic>**
-* 💬 Ask me about: JavaScript, DOM, CSS animations, accessibility
+Hi, I’m Lera, a front-end developer focused on JavaScript, HTML, and CSS.
 
 ---
 
