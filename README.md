@@ -24,80 +24,23 @@ I'm a front-end developer focused on **JavaScript, HTML, and CSS**. I enjoy buil
 
 ---
 
-## Projects (12)
+## 🚀 Projects
 
-<div style="display:flex; flex-wrap:wrap; gap:16px; margin-top:8px;">
-  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin:0 0 6px 0;">🔥 Project One</h3>
-    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project One.</p>
-    <p style="margin:0;"><a href="https://github.com/your-username/project-one" target="_blank">Repository</a> · <a href="https://your-demo-link.one" target="_blank">Live</a></p>
-  </div>
+| Repository | Link | Description | Awards |
+|------------|------|-------------|--------|
+| **DB Chat** | [Download](https://github.com/your-username/db-chat) | AI first DB Client | — |
+| **Bluesky 3D Graph** | [Website](https://your-demo-link.com) | 3D chart of your Bluesky post activity | Live on PH |
+| **mdx Blog** | [Website](https://your-demo-link.com) | Premium MDX, NextJS, TailwindCSS Template | 3rd DevHunt |
+| **Personal Blog v2** | [Website](https://your-demo-link.com) | New Blog | — |
+| **Outline HTML Elements** | [Webstore](https://your-demo-link.com) | Outline HTML Elements to Inspect Website Layout | — |
+| **Twitter (X) Font Editor** | [Webstore](https://your-demo-link.com) | *Bold, Italic, Underlined* Fonts for Twitter | — |
+| **Landing Page Design Examples** | [Website](https://your-demo-link.com) | Awesome Landing Pages | 5th DevHunt |
+| **Best GitHub Profile Readmes** | [Website](https://your-demo-link.com) | GitHub's most Unique Profiles | 3rd DevHunt |
+| **Click to Copy** | [Webstore](https://your-demo-link.com) | Copy Text, URLs, and CSS with one Click! | 4th DevHunt |
+| **LinkedIn Font Editor** | [Webstore](https://your-demo-link.com) | *Bold, Italic, Underlined* Fonts for LinkedIn | — |
+| **NEFT Flappy Bird** | [Video](https://your-demo-link.com) | Neuro Evolution with Fixed Topologies from Scratch | — |
+| **Personal Blog v1** | _(Taken Down)_ | Built with NextJS (App Router) & WP GraphQL | — |
 
-  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
-    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
-    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
-  </div>
-
-  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
-    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
-    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
-  </div>
-
-  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
-    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
-    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
-  </div>
-
-  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
-    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
-    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
-  </div>
-
-  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
-    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
-    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
-  </div>
-
-  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
-    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
-    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
-  </div>
-
-  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
-    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
-    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
-  </div>
-
-  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
-    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
-    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
-  </div>
-
-  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
-    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
-    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
-  </div>
-
-  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
-    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
-    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
-  </div>
-
-  <div style="flex:1 1 320px; border:1px solid #e1e4e8; padding:14px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin:0 0 6px 0;">🎨 Project Two</h3>
-    <p style="margin:0 0 8px 0; color:#444;">Short one-line description of Project Two.</p>
-    <p style="margin:0;"><a href="https://github.com/your-username/project-two" target="_blank">Repository</a></p>
-  </div>
 
 > Tip: For each project add a short badge or emoji to highlight tech used (e.g. `⚛️ React`, `🎮 Game`, `🧩 Library`). Add a `LIVE` link when there's a demo.
 
