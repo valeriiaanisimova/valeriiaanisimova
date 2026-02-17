@@ -1,4 +1,4 @@
-![Hero Image](https://raw.githubusercontent.com/valeriiaanisimova/Portfolio-/main/zvezdada.jpg)
+![Hero Image](https://raw.githubusercontent.com/valeriiaanisimova/Portfolio-/main/cvetea.jpg)
 ---
 
 ## About Me
