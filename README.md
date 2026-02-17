@@ -9,15 +9,15 @@ Hi, I’m Lera, a front-end developer focused on JavaScript, HTML, and CSS.
 
 ## Here on GitHub, I share:
 
-- ♟ Chess-inspired algorithms and decision-making simulations  
-- 🎮 Mini games and gamified web experiments  
-- 🕵️ Steganography experiments and encoding tricks  
-- 🕹 Interactive visualizations of graph theory, Markov chains, or game theory  
-- 🤖 Simple AI/ML prototypes and neural network experiments
+- ♟︎ Chess-inspired algorithms and decision-making simulations  
+- ▶︎ Mini games and gamified web experiments  
+- ☀︎ Steganography experiments and encoding tricks  
+- ⛓︎ Interactive visualizations of graph theory, Markov chains, or game theory  
+- ⌨︎ Simple AI/ML prototypes and neural network experiments
 
 ---
 
-## 🚀 Projects
+## ❣︎ Projects
 
 | Repository | Link | Description |
 |------------|------|-------------|
@@ -36,7 +36,7 @@ Hi, I’m Lera, a front-end developer focused on JavaScript, HTML, and CSS.
 | **probability-project** | (https://valeriiaanisimova.github.io/probability-project/) | An interactive simulation that uses probability to estimate outcomes of life scenarios based on personal choices and habits. | 
 
 
-- ⚡When I'm not coding, you might find me **solving a puzzle**, **training for the next tournament**, or **figuring out how to automate a tedious task** (because why not let the computer do the boring stuff? 😎).
+- ⚔︎ When I'm not coding, you might find me **solving a puzzle**, **training for the next tournament**, or **figuring out how to automate a tedious task** (because why not let the computer do the boring stuff? 😎).
 
 ---
 
