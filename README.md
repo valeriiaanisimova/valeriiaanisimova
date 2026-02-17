@@ -1,4 +1,4 @@
-![Hero Image](https://github.com/lima4ka/art/blob/main/artcot.png?raw=true)
+![Hero Image](https://github.com/lima4ka/art/blob/main/photo_2026-02-17_02-59-57.jpg?raw=true)
 ---
 
 ## About Me
