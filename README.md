@@ -1,4 +1,4 @@
-![Hero Image](https://raw.githubusercontent.com/lima4ka/Portfolio-/main/photo_2026-02-17_02-59-57.jpg)
+![Hero Image](https://raw.githubusercontent.com/lima4ka/Portfolio-/main/zvesdu.jpg)
 ---
 
 ## About Me
