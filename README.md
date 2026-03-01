@@ -21,7 +21,7 @@ Hi, I’m Lera, a front-end developer focused on JavaScript, HTML, and CSS.
 
 | Repository | Link | Description |
 |------------|------|-------------|
-| **My Portfolio** | (https://ValiceAn.github.io/Portfolio-/) |
+| **My Portfolio** | (https://ValiceAn.github.io/Portfolio/) |
 | **game-of-probabilities** | (https://ValiceAn.github.io/game-of-probabilities/) | An interactive educational game that teaches probability and combinatorics through mini-games with dice, coins, and other simulations. |
 | **probability** | (https://ValiceAn.github.io/probability/) | An interactive tool to calculate simple, conditional, dependent, and joint probabilities using custom events and datasets. |
 | **fractals-live** | (https://ValiceAn.github.io/fractals-live/) | Interactive fractal generator where users can create and explore live fractal patterns. |
