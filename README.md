@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi, I’m Lera, a front-end developer focused on JavaScript, HTML, and CSS.
+Hi, I’m Valice, a front-end developer focused on JavaScript, HTML, and CSS.
 
 ---
 
