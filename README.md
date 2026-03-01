@@ -29,9 +29,9 @@ Hi, I’m Lera, a front-end developer focused on JavaScript, HTML, and CSS.
 | **Interstellar Dice** | (https://valicean.github.io/Interstellar-Dice/) | A dice-based poker game where players roll up to three times per turn to form five-dice combinations. Features multiple game modes, hints, automatic scoring, and team play in a space-themed interface. |
 | **Markov Snake** | (https://valicean.github.io/Markov-Snake/) | A Snake game where the snake learns to play using Markov chains, adapting its moves probabilistically based on previous successes. | 
 | **Game Theory** | (https://valicean.github.io/Game-Theory/) | Interactive game theory simulations illustrating strategies, Nash equilibria, and decision-making in classic games like Prisoner’s Dilemma and Hawk-Dove. | 
-| **Correlation-between-lunar-cycle-and-menstruation** | (https://ValiceAn.github.io/Correlation-between-lunar-cycle-and-menstruation/) | Interactive visualization exploring correlations between the lunar cycle and menstrual cycles, allowing users to analyze synchronization patterns across participants. | 
-| **compression-game-project** | (https://ValiceAn.github.io/compression-game-project/) | An interactive web game where players use data compression techniques to solve puzzles and optimize files. |
-| **compression-project** | (https://ValiceAn.github.io/compression-project/) | interactive web app that turns text into music, rhythms, and pixel art using data compression algorithms like Huffman coding and RLE. | 
+| **Celestial Cycles** | (https://valicean.github.io/Celestial-Cycles/) | Interactive visualization exploring correlations between the lunar cycle and menstrual cycles, allowing users to analyze synchronization patterns across participants. | 
+| **Compression Crisis** | (https://valicean.github.io/Compression-Crisis/) | An interactive web game where players use data compression techniques to solve puzzles and optimize files. |
+| **Encode the sound** | (https://valicean.github.io/Encode-the-Sound/) | interactive web app that turns text into music, rhythms, and pixel art using data compression algorithms like Huffman coding and RLE. | 
 | **-Theory-Of-Graphs-project** | (https://ValiceAn.github.io/-Theory-Of-Graphs-project/) | Interactive graph theory project visualizing and analyzing biorhythm cycles. | 
 | **probability-project** | (https://ValiceAn.github.io/probability-project/) | An interactive simulation that uses probability to estimate outcomes of life scenarios based on personal choices and habits. | 
 
