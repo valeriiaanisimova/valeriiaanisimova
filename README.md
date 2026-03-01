@@ -33,7 +33,7 @@ Hi, I’m Lera, a front-end developer focused on JavaScript, HTML, and CSS.
 | **Compression Crisis** | (https://valicean.github.io/Compression-Crisis/) | An interactive web game where players use data compression techniques to solve puzzles and optimize files. |
 | **Encode the sound** | (https://valicean.github.io/Encode-the-Sound/) | interactive web app that turns text into music, rhythms, and pixel art using data compression algorithms like Huffman coding and RLE. | 
 | **Pathfinder** | (https://valicean.github.io/Pathfinder/) | Interactive graph theory project visualizing and analyzing biorhythm cycles. | 
-| **probability-project** | (https://ValiceAn.github.io/probability-project/) | An interactive simulation that uses probability to estimate outcomes of life scenarios based on personal choices and habits. | 
+| **Life Forecast** | (https://valicean.github.io/Life-Forecast/) | An interactive simulation that uses probability to estimate outcomes of life scenarios based on personal choices and habits. | 
 
 
 - ⚔︎ When I'm not coding, you might find me **solving a puzzle**, **training for the next tournament**, or **figuring out how to automate a tedious task** (because why not let the computer do the boring stuff? 😎).
